@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LayoutsProject</string>
+    <string name="linear_layout_button_text">Linear Layout</string>
+    <string name="constraint_layout_button_text">Constraint Layout</string>
+    <string name="grid_layout_button_text">Grid Layout</string>
+    <string name="table_layout_button_text">Table Layout</string>
+    <string name="relative_layout_button_text">Relative Layout</string>
+    <string name="linear_layout_page_title">Linear Layout</string>
+</resources>
